@@ -8,6 +8,6 @@ osaze_omoruyi = {
     'website': 'osazeomoruyi.co.uk',
     'computer_languages': ['Python', 'JavaScript', 'SQL'],
     'human_languages': ['English'], 
-    'interests': ['Data Engineering', 'Web Development', 'Artificial Intelligence', 'Solutions Architecture'],  
+    'interests': ['Data Engineering]  
 }
 
